@@ -1,9 +1,9 @@
 from unittest import TestCase
 import numpy as np
-from pyembree import rtcore as rtc
-from pyembree import rtcore_scene as rtcs
-from pyembree.mesh_construction import TriangleMesh
-from pyembree.mesh_construction import ElementMesh
+from pyembree3 import rtcore as rtc
+from pyembree3 import rtcore_scene as rtcs
+from pyembree3.mesh_construction import TriangleMesh
+from pyembree3.mesh_construction import ElementMesh
 
 
 def xplane(x):

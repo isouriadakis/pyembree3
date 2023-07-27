@@ -14,8 +14,8 @@ for ext in ext_modules:
     ext.libraries = ["embree"]
 
 setup(
-    name="pyembree",
-    version='0.1.6',
+    name="pyembree3",
+    version='0.2.0',
     ext_modules=ext_modules,
     zip_safe=False,
     packages=find_packages(),

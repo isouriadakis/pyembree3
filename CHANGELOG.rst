@@ -4,6 +4,18 @@ pyembree Change Log
 
 .. current developments
 
+v0.2.0
+====================
+**Changed:**
+
+* Ported pyembree to embree3.
+
+**Authors:**
+
+* Gengyan Li
+
+
+
 v0.1.6
 ====================
 

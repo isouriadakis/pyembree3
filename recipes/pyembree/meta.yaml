@@ -1,6 +1,6 @@
 package:
-  name: pyembree
-  version: 0.1.6
+  name: pyembree3
+  version: 0.2.0
 
 source:
   #fn: cymetric-src.tar.gz  # ["TRAVIS" not in environ]
